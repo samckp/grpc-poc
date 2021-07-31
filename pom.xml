@@ -9,7 +9,6 @@
 	<name>spring-grpc-demo</name>
 	<description>Demo project for Spring Boot GRPC</description>
 
-
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
